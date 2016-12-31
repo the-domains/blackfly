@@ -1,4 +1,3 @@
-layout_spectrum: 0.4476382662363277
 typography_spectrum: 0.5073023631288163
 color:
   saturation: 0.46728783788998607
@@ -12,6 +11,7 @@ color:
     - '#5E6B98'
   rhythmicContrast: 0.46125351585309476
 github: true
+layout_spectrum: 0.4476382662363277
 analytics:
   google: UA-83678704-1
 author:
