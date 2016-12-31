@@ -4,15 +4,22 @@
         <description><![CDATA[Blackfly]]></description>
         <link>http://www.blackfly.se/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Dec 2016 14:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2016 14:10:25 GMT</lastBuildDate>
         <atom:link href="http://www.blackfly.se/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 Dec 2016 14:08:04 GMT</pubDate>
+        <pubDate>Sat, 31 Dec 2016 14:10:24 GMT</pubDate>
         <item>
             <title><![CDATA[Happy New Year]]></title>
             <description><![CDATA[<article><h1>Happy New Year</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0df710e3-02d3-4a50-a5bd-06e83fe937b2.jpg"></article>]]></description>
             <link>https://www.happynewyears2017.org/wp-content/uploads/2016/11/Happy-New-Year-2017-Images-For-WhatsApp-2.jpg</link>
             <guid isPermaLink="false">6ced0873-84f5-4b3e-bd17-d290498efa5f</guid>
             <pubDate>Sat, 31 Dec 2016 13:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tim Urban: Inside the mind of a master procrastinator]]></title>
+            <description><![CDATA[<article><h1>Tim Urban: Inside the mind of a master procrastinator</h1><p>Tim Urban knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're really procrastinating on, before we run out of time.</p></article>]]></description>
+            <link>https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator</link>
+            <guid isPermaLink="false">3099aef8-653f-4afa-b7e8-85449cee5b92</guid>
+            <pubDate>Sat, 31 Dec 2016 14:10:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This summer]]></title>
@@ -62,6 +69,13 @@
             <link>https://www.youtube.com/watch?v=llKvV8_T95M</link>
             <guid isPermaLink="false">8711cebd-0856-4457-a576-3e0e29563db3</guid>
             <pubDate>Sun, 04 Sep 2016 11:14:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Machine Intelligence and Data Products - Hilary Mason]]></title>
+            <description><![CDATA[<article><h1>Machine Intelligence and Data Products - Hilary Mason</h1><p>Hilary Mason, Founder of Fast Forward Labs H2O World 2015, Day 3</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7cf2714132482a06e835aaf171bc10c8/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FSxxqaC5hf04%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=SxxqaC5hf04</link>
+            <guid isPermaLink="false">54579ff2-68ca-4530-9803-414695e0a95c</guid>
+            <pubDate>Sat, 31 Dec 2016 14:10:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
