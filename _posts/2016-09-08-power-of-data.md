@@ -1,7 +1,7 @@
 ---
 title: Power of data
-datePublished: '2016-12-31T13:51:27.510Z'
-dateModified: '2016-12-31T13:51:26.287Z'
+datePublished: '2016-12-31T13:59:15.219Z'
+dateModified: '2016-12-31T13:59:13.568Z'
 author: []
 description: ''
 publisher: {}
