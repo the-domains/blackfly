@@ -66,8 +66,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=AdKUJxjn-R8'
 title: 'Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont'
-datePublished: '2016-12-31T13:51:27.509Z'
-dateModified: '2016-12-31T13:51:26.287Z'
+datePublished: '2016-12-31T13:59:15.249Z'
+dateModified: '2016-12-31T13:59:13.568Z'
 via: {}
 inFeed: true
 sourcePath: >-
