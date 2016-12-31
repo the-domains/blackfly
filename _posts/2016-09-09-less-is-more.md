@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-31T13:51:27.504Z'
+datePublished: '2016-12-31T13:59:15.257Z'
 sourcePath: _posts/2016-09-09-less-is-more.md
 inFeed: true
 isBasedOnUrl: 'http://blog.darkhorseanalytics.com/clear-off-the-table'
@@ -20,7 +20,7 @@ author:
     url: null
     avatar: {}
 via: {}
-dateModified: '2016-12-31T13:51:26.287Z'
+dateModified: '2016-12-31T13:59:13.568Z'
 title: ''
 app_links: []
 publisher: {}
