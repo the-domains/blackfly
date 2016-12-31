@@ -1,0 +1,45 @@
+typography_spectrum: 0.727656
+color:
+  saturation: 0.6846543
+  brandStrength: 0.9291278838076731
+  lightness: 0.1908803
+  brandColors:
+    - '#B1CEE0'
+    - '#1D051D'
+    - '#F3FEDC'
+    - '#AB9484'
+    - '#5E6B98'
+  rhythmicContrast: 0.2892074
+github: true
+layout_spectrum: 0.6146712
+analytics:
+  google: UA-83678704-1
+author:
+  name: Urban Edlund
+  email: urban.edlund@blackfly.se
+  url: www.blackfly.se
+name: Blackfly
+url: 'http://www.blackfly.se'
+navigation:
+  - name: About Us
+    id: 6f636db6-774e-46f2-b863-f6a0eb6b35dc
+    type: content
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: Blackfly
+content: []
+description: need help with intelligence ?
+purpose:
+  - type: contact
+    url: 'mailto:contact@blackfly.se'
+    label: Contact me
