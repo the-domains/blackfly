@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-31T13:56:54.771Z'
-datePublished: '2016-12-31T13:56:55.459Z'
+dateModified: '2016-12-31T13:57:02.201Z'
+datePublished: '2016-12-31T13:58:48.876Z'
 title: Happy New Year
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: >-
   https://www.happynewyears2017.org/wp-content/uploads/2016/11/Happy-New-Year-2017-Images-For-WhatsApp-2.jpg
-starred: false
-datePublishedOriginal: '2016-12-31T13:56:55.459Z'
 sourcePath: _posts/2016-12-31-happy-new-year.md
+starred: false
+datePublishedOriginal: '2016-12-31T13:58:48.876Z'
 _type: MediaObject
 
 ---
