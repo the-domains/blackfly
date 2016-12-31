@@ -65,13 +65,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=CrSX97elHDA'
 title: 'Strata 2012: Avinash Kaushik, "A Big Data Imperative: Driving Big Action"'
-datePublished: '2016-12-31T13:51:27.477Z'
-dateModified: '2016-12-31T13:51:26.287Z'
+datePublished: '2016-12-31T13:59:15.265Z'
+dateModified: '2016-12-31T13:59:13.568Z'
 via: {}
 sourcePath: _posts/2016-09-04-strata-2012-avinash-kaushik-a-big-data-imperative-drivin.md
+inFeed: true
 starred: false
 datePublishedOriginal: '2016-09-04T14:03:24.398Z'
-inFeed: true
 _type: VideoObject
 _context: 'http://schema.org'
 
