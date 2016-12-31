@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-31T13:51:27.484Z'
+datePublished: '2016-12-31T13:59:15.269Z'
 sourcePath: _posts/2016-09-04-statistical-analysis-in-google-sheets.md
 isBasedOnUrl: 'https://www.linkedin.com/pulse/statistical-analysis-google-sheets-steven-scott'
 keywords:
@@ -20,7 +20,7 @@ author:
       https://www.linkedin.com/in/steven-scott-3b66964?trk=pulse-det-athr_prof-art_hdr
     avatar: {}
 via: {}
-dateModified: '2016-12-31T13:51:26.287Z'
+dateModified: '2016-12-31T13:59:13.568Z'
 title: ''
 app_links: []
 publisher: {}
@@ -28,9 +28,9 @@ description: >-
   Google Sheets is getting better and better every day. Checkout this new
   statistics add-on
 inLanguage: en
+inFeed: true
 starred: false
 datePublishedOriginal: '2016-09-04T14:11:56.392Z'
-inFeed: true
 _context: 'http://schema.org'
 _type: MediaObject
 
