@@ -61,8 +61,8 @@ app_links:
     name: TED
 isBasedOnUrl: 'https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator'
 title: 'Tim Urban: Inside the mind of a master procrastinator'
-datePublished: '2016-12-31T13:51:27.472Z'
-dateModified: '2016-12-31T13:51:26.287Z'
+datePublished: '2016-12-31T13:59:15.395Z'
+dateModified: '2016-12-31T13:59:13.568Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-31-tim-urban-inside-the-mind-of-a-master-procrastinator.md
