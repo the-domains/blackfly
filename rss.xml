@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Blackfly]]></title>
+        <description><![CDATA[Blackfly]]></description>
+        <link>http://www.blackfly.se/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 31 Dec 2016 13:48:51 GMT</lastBuildDate>
+        <atom:link href="http://www.blackfly.se/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 31 Dec 2016 13:48:50 GMT</pubDate>
+        <item>
+            <title><![CDATA[This summer]]></title>
+            <description><![CDATA[<article><h1>This summer</h1><p>Mindfulness </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66bafc1d-ab99-4b04-bf7c-ac733e0ec645.jpg"></article>]]></description>
+            <link>http://www.blackfly.se/this-summer/index.html</link>
+            <guid isPermaLink="false">ade74ef9-23ee-4359-845d-90e48fb5a119</guid>
+            <pubDate>Sun, 04 Sep 2016 13:12:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strata 2012: Avinash Kaushik, "A Big Data Imperative: Driving Big Action"]]></title>
+            <description><![CDATA[<article><h1>Strata 2012: Avinash Kaushik, "A Big Data Imperative: Driving Big Action"</h1><p>So you've hoarded the world's data within your enterprise. Now what? Author and digital marketing evangelist Avinash Kaushik shares lessons from the nascent world of Web Analytics on how multiplicity, scale and outsourcing powers a data democracy, and how that in turn drives business action.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/79a4ad7c752295888b0d75e3e491d275/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FCrSX97elHDA%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=CrSX97elHDA</link>
+            <guid isPermaLink="false">beff60f5-5912-4f8d-994f-2a8ab63d7d6e</guid>
+            <pubDate>Sun, 04 Sep 2016 14:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tim Urban: Inside the mind of a master procrastinator]]></title>
+            <description><![CDATA[<article><h1>Tim Urban: Inside the mind of a master procrastinator</h1><p>Tim Urban knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're really procrastinating on, before we run out of time.</p></article>]]></description>
+            <link>https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator</link>
+            <guid isPermaLink="false">3099aef8-653f-4afa-b7e8-85449cee5b92</guid>
+            <pubDate>Sat, 31 Dec 2016 13:48:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont]]></title>
+            <description><![CDATA[<article><h1>Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont</h1><p>www.tedxfremont.com What if someone told you to floss only one tooth everyday? Or start the new year, not with grand resolutions, but with a simple challenge.. like ONE pushup a day? BJ Fogg shows us that the key to lasting change does not lie in planning big, monumental changes, but in thinking really, really small.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/188c799bfc8713f30324bd55c35655de/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FAdKUJxjn-R8%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=AdKUJxjn-R8</link>
+            <guid isPermaLink="false">dd962a2a-919a-40c9-8dee-b0f15ffe5586</guid>
+            <pubDate>Mon, 26 Dec 2016 10:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clear Off The Table]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7821a3ac-c5d6-4f04-8517-dd7b5b9cba57.jpg">]]></description>
+            <link>http://blog.darkhorseanalytics.com/clear-off-the-table</link>
+            <guid isPermaLink="false">3a73f8cc-01fd-49ca-b921-67e50f34f4f0</guid>
+            <pubDate>Fri, 09 Sep 2016 20:34:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Statistical analysis in Google Sheets]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18439425-3a4e-479f-8fd7-f88142736ee8.jpg">]]></description>
+            <link>https://www.linkedin.com/pulse/statistical-analysis-google-sheets-steven-scott</link>
+            <guid isPermaLink="false">43594910-eb35-41e8-8fd3-81bd66425a49</guid>
+            <pubDate>Sun, 04 Sep 2016 14:11:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GOV.UK - GDS design principles]]></title>
+            <description><![CDATA[<article><h1>GOV.UK - GDS design principles</h1><p>Government should only do what only government can do. If we've found a way of doing something that works, we should make it reusable and shareable instead of reinventing the wheel every time. This means building platforms and registers others can build upon, providing resources (like APIs) that others can use, and linking to the work of others.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d05ac0bcfcd44dfba0e0f6033ececd4d2c9fba3.png"></article>]]></description>
+            <link>https://www.gov.uk/design-principles</link>
+            <guid isPermaLink="false">3722871d-621b-409d-a907-7876df362a11</guid>
+            <pubDate>Sun, 04 Sep 2016 12:35:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simon Sinek: If You Don't Understand People, You Don't Understand Business]]></title>
+            <description><![CDATA[<article><h1>Simon Sinek: If You Don't Understand People, You Don't Understand Business</h1><p>About this presentation In this wide-ranging talk, ethnographer and leadership expert Simon Sinek discusses the importance of trust, authenticity, and meaning. Sinek argues that as individuals and companies, everything that we say and do is a symbol of who we are.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a2426ae802286034654057e64eca95db/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FllKvV8_T95M%2Fhqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=llKvV8_T95M</link>
+            <guid isPermaLink="false">8711cebd-0856-4457-a576-3e0e29563db3</guid>
+            <pubDate>Sun, 04 Sep 2016 11:14:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Machine Intelligence and Data Products - Hilary Mason]]></title>
+            <description><![CDATA[<article><h1>Machine Intelligence and Data Products - Hilary Mason</h1><p>Hilary Mason, Founder of Fast Forward Labs H2O World 2015, Day 3</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7cf2714132482a06e835aaf171bc10c8/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FSxxqaC5hf04%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=SxxqaC5hf04</link>
+            <guid isPermaLink="false">54579ff2-68ca-4530-9803-414695e0a95c</guid>
+            <pubDate>Sun, 04 Sep 2016 12:12:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The One Metric That Matters]]></title>
+            <description><![CDATA[<article><h1>The One Metric That Matters</h1><p>One of the things Ben and I have been discussing a lot is the concept of the One Metric That Matters (OMTM) and how to focus on it. Founders are magpies, chasing the shiniest new thing they see.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/dd087237cfa88fdf84e16d287c0ac232/noop.jpeg?input=http%3A%2F%2Fleananalyticsbook.com%2Fwp-content%2Fuploads%2F2012%2F07%2FSqueeze-toy.jpeg"></article>]]></description>
+            <link>http://leananalyticsbook.com/one-metric-that-matters/</link>
+            <guid isPermaLink="false">eb9b29e5-51ee-49a2-9d35-149093beaa92</guid>
+            <pubDate>Sun, 04 Sep 2016 12:12:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
