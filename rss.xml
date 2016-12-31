@@ -4,9 +4,9 @@
         <description><![CDATA[Blackfly]]></description>
         <link>http://www.blackfly.se/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Dec 2016 13:51:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2016 13:57:21 GMT</lastBuildDate>
         <atom:link href="http://www.blackfly.se/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 Dec 2016 13:51:31 GMT</pubDate>
+        <pubDate>Sat, 31 Dec 2016 13:57:19 GMT</pubDate>
         <item>
             <title><![CDATA[Tim Urban: Inside the mind of a master procrastinator]]></title>
             <description><![CDATA[<article><h1>Tim Urban: Inside the mind of a master procrastinator</h1><p>Tim Urban knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're really procrastinating on, before we run out of time.</p></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Sat, 31 Dec 2016 13:51:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Happy New Year]]></title>
+            <description><![CDATA[<article><h1>Happy New Year</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0df710e3-02d3-4a50-a5bd-06e83fe937b2.jpg"></article>]]></description>
+            <link>https://www.happynewyears2017.org/wp-content/uploads/2016/11/Happy-New-Year-2017-Images-For-WhatsApp-2.jpg</link>
+            <guid isPermaLink="false">6ced0873-84f5-4b3e-bd17-d290498efa5f</guid>
+            <pubDate>Sat, 31 Dec 2016 13:56:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[GOV.UK - GDS design principles]]></title>
             <description><![CDATA[<article><h1>GOV.UK - GDS design principles</h1><p>Government should only do what only government can do. If we've found a way of doing something that works, we should make it reusable and shareable instead of reinventing the wheel every time. This means building platforms and registers others can build upon, providing resources (like APIs) that others can use, and linking to the work of others.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d05ac0bcfcd44dfba0e0f6033ececd4d2c9fba3.png"></article>]]></description>
             <link>https://www.gov.uk/design-principles</link>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=SxxqaC5hf04</link>
             <guid isPermaLink="false">54579ff2-68ca-4530-9803-414695e0a95c</guid>
             <pubDate>Sun, 04 Sep 2016 12:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The One Metric That Matters]]></title>
-            <description><![CDATA[<article><h1>The One Metric That Matters</h1><p>One of the things Ben and I have been discussing a lot is the concept of the One Metric That Matters (OMTM) and how to focus on it. Founders are magpies, chasing the shiniest new thing they see.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/dd087237cfa88fdf84e16d287c0ac232/noop.jpeg?input=http%3A%2F%2Fleananalyticsbook.com%2Fwp-content%2Fuploads%2F2012%2F07%2FSqueeze-toy.jpeg"></article>]]></description>
-            <link>http://leananalyticsbook.com/one-metric-that-matters/</link>
-            <guid isPermaLink="false">eb9b29e5-51ee-49a2-9d35-149093beaa92</guid>
-            <pubDate>Sun, 04 Sep 2016 12:12:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
