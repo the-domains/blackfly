@@ -4,9 +4,9 @@
         <description><![CDATA[Blackfly]]></description>
         <link>http://www.blackfly.se/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Jan 2017 13:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2017 14:17:35 GMT</lastBuildDate>
         <atom:link href="http://www.blackfly.se/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Jan 2017 13:49:51 GMT</pubDate>
+        <pubDate>Thu, 19 Jan 2017 14:17:34 GMT</pubDate>
         <item>
             <title><![CDATA[This summer]]></title>
             <description><![CDATA[<h1>This summer</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66bafc1d-ab99-4b04-bf7c-ac733e0ec645.jpg" alt="Mindfulness ">]]></description>
@@ -41,6 +41,20 @@
             <link>https://www.youtube.com/watch?v=AdKUJxjn-R8</link>
             <guid isPermaLink="false">dd962a2a-919a-40c9-8dee-b0f15ffe5586</guid>
             <pubDate>Mon, 26 Dec 2016 10:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech Talk: Habit Formation in UI/UX]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJYbj7DZh3i0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJYbj7DZh3i0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJYbj7DZh3i0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtube.com/watch?v=JYbj7DZh3i0</link>
+            <guid isPermaLink="false">98ced294-3aa7-4dc7-b136-804df8655983</guid>
+            <pubDate>Thu, 19 Jan 2017 14:17:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech Talk: Habit Formation in UI/UX]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJYbj7DZh3i0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJYbj7DZh3i0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJYbj7DZh3i0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtube.com/watch?v=JYbj7DZh3i0</link>
+            <guid isPermaLink="false">bad6ecdf-8d95-4c1f-b6eb-7e5c7278cddf</guid>
+            <pubDate>Thu, 19 Jan 2017 14:09:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Customer Loyalty Is Overrated]]></title>
