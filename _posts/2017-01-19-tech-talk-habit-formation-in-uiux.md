@@ -66,9 +66,9 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtube.com/watch?v=JYbj7DZh3i0'
 title: 'Tech Talk: Habit Formation in UI/UX'
-datePublished: '2017-01-19T14:09:57.463Z'
-dateModified: '2017-01-19T14:09:45.408Z'
-datePublishedOriginal: '2017-01-19T14:09:57.463Z'
+datePublished: '2017-01-19T14:17:33.950Z'
+dateModified: '2017-01-19T14:16:37.473Z'
+datePublishedOriginal: '2017-01-19T14:17:33.950Z'
 via: {}
 inFeed: true
 starred: false
