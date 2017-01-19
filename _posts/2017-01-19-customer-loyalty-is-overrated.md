@@ -30,9 +30,9 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://hbr.org/2017/01/customer-loyalty-is-overrated'
 title: Customer Loyalty Is Overrated
-datePublished: '2017-01-19T13:36:15.534Z'
-dateModified: '2017-01-19T13:35:41.916Z'
-datePublishedOriginal: '2017-01-19T13:36:15.534Z'
+datePublished: '2017-01-19T13:48:38.689Z'
+dateModified: '2017-01-19T13:45:10.302Z'
+datePublishedOriginal: '2017-01-19T13:48:38.689Z'
 via: {}
 inFeed: true
 starred: false
