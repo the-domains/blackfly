@@ -11,9 +11,9 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://jjwkdl.github.io/portfolio/R/TensorflowIris/TensorflowIris.html'
 title: Tensorflow-Iris
-datePublished: '2017-01-19T13:34:52.528Z'
-dateModified: '2017-01-19T13:34:19.013Z'
-datePublishedOriginal: '2017-01-19T13:34:52.528Z'
+datePublished: '2017-01-19T13:48:38.040Z'
+dateModified: '2017-01-19T13:47:17.267Z'
+datePublishedOriginal: '2017-01-19T13:48:38.040Z'
 via: {}
 inFeed: true
 starred: false
