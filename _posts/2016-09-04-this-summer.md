@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-12-31T13:59:15.251Z'
+datePublished: '2017-01-22T12:29:48.312Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-31T13:59:13.568Z'
+dateModified: '2017-01-22T12:29:46.005Z'
 title: This summer
 publisher:
   name: Urban Edlund
