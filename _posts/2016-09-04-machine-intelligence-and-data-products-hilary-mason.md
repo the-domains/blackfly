@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=SxxqaC5hf04'
 title: Machine Intelligence and Data Products - Hilary Mason
-datePublished: '2016-12-31T14:10:22.845Z'
-dateModified: '2016-12-31T14:08:03.707Z'
+datePublished: '2017-01-22T12:29:48.761Z'
+dateModified: '2017-01-22T12:29:46.005Z'
 via: {}
 sourcePath: _posts/2016-09-04-machine-intelligence-and-data-products-hilary-mason.md
 inFeed: true
