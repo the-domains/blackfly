@@ -1,3 +1,16 @@
+layout_spectrum: 0.9075673340925818
+typography_spectrum: 0.6044392926899698
+color:
+  saturation: 0.7121388380958855
+  brandStrength: 0.1644855082771824
+  lightness: 0.26430184305820725
+  brandColors:
+    - '#B4B8BC'
+    - '#1D3969'
+    - '#365C89'
+    - '#6A7B8C'
+    - '#F9F8F3'
+  rhythmicContrast: 1
 title: Blackfly
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -66,17 +79,6 @@ collections:
       format: rss
       number: 10
 description: need help with intelligence ?
-color:
-  saturation: 0.4672878
-  brandStrength: 0.8315412
-  lightness: 0.7132617
-  brandColors:
-    - '#B4B8BC'
-    - '#1D3969'
-    - '#365C89'
-    - '#6A7B8C'
-    - '#F9F8F3'
-  rhythmicContrast: 0.7240143
 navigation:
   - name: About Us
     id: 6f636db6-774e-46f2-b863-f6a0eb6b35dc
@@ -88,6 +90,4 @@ author:
   name: Urban Edlund
   email: urban.edlund@blackfly.se
   url: www.blackfly.se
-typography_spectrum: 0.6146954
-layout_spectrum: 0.9820789
 url: 'http://www.blackfly.se'
