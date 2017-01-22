@@ -12,55 +12,7 @@ color:
     - '#F9F8F3'
   rhythmicContrast: 1
 title: Blackfly
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eabe58d5-ab70-47b8-8e4e-039a4c4781b1.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/eabe58d5-ab70-47b8-8e4e-039a4c4781b1.jpg
-    metadata:
-      author: []
-      datePublished: null
-      keywords: []
-      '@type': MediaObject
-      publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b852f404-a353-46e8-815e-fef567fee29f.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b852f404-a353-46e8-815e-fef567fee29f.jpg
-    metadata:
-      author: []
-      datePublished: null
-      keywords: []
-      '@type': MediaObject
-      publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 github: true
 purpose:
   - type: contact
