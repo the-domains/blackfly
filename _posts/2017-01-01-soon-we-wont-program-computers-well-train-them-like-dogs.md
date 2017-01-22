@@ -18,13 +18,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.wired.com/2016/05/the-end-of-code'
 title: Soon We Won't Program Computers. We'll Train Them Like Dogs
-datePublished: '2017-01-01T11:45:04.315Z'
-dateModified: '2017-01-01T11:43:53.103Z'
-datePublishedOriginal: '2017-01-01T11:45:04.315Z'
+datePublished: '2017-01-22T12:29:48.576Z'
+dateModified: '2017-01-22T12:29:46.005Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-01-soon-we-wont-program-computers-well-train-them-like-dogs.md
+starred: false
+datePublishedOriginal: '2017-01-01T11:45:04.315Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
