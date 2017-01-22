@@ -4,9 +4,9 @@
         <description><![CDATA[Blackfly]]></description>
         <link>http://www.blackfly.se/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Jan 2017 12:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2017 12:30:42 GMT</lastBuildDate>
         <atom:link href="http://www.blackfly.se/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Jan 2017 12:29:51 GMT</pubDate>
+        <pubDate>Sun, 22 Jan 2017 12:29:54 GMT</pubDate>
         <item>
             <title><![CDATA[Customer Loyalty Is Overrated]]></title>
             <description><![CDATA[<article><h1>Customer Loyalty Is Overrated</h1><p>In this spotlight Counterpoint Dollar Shave Club&apos;s subscription model is a striking illustration. In Practice A conversation with J&oslash;rgen Vig Knudstorp, cochairman of the LEGO Brand Group In Practice An interview with Intuit chairman and cofounder Scott Cook Late in the spring of 2016 Facebook&apos;s category-leading photo-sharing application, Instagram, abandoned its original icon, a retro camera familiar to the app&apos;s 400- million-plus users, and replaced it with a flat modernist design that, as the head of design explained, &quot;suggests a camera.&quot;</p><img src="https://hbr.org/resources/images/article_assets/2016/11/R1701B_LAFLEY.jpg"></article>]]></description>
@@ -27,20 +27,6 @@
             <link>https://youtube.com/watch?v=JYbj7DZh3i0</link>
             <guid isPermaLink="false">98ced294-3aa7-4dc7-b136-804df8655983</guid>
             <pubDate>Thu, 19 Jan 2017 14:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Statistical analysis in Google Sheets]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18439425-3a4e-479f-8fd7-f88142736ee8.jpg">,<p>Google Sheets is getting better and better every day. Checkout this new statistics <a href="https://www.linkedin.com/pulse/statistical-analysis-google-sheets-steven-scott">add-on</a></p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efe556dc9e326ddfe6ffb1b0ce22ade8e15ef82e.png"><h1>Statistical analysis in Google Sheets</h1><p>I&apos;m happy to announce a new &quot; Statistics&quot; add-on for Google Sheets (the spreadsheet component of Google docs). The add-on provides statistics and data analysis functionality right in Google Sheets, so you don&apos;t need to download your data to a separate customized statistics application.</p></article>]]></description>
-            <link>https://www.linkedin.com/pulse/statistical-analysis-google-sheets-steven-scott</link>
-            <guid isPermaLink="false">43594910-eb35-41e8-8fd3-81bd66425a49</guid>
-            <pubDate>Sun, 04 Sep 2016 14:11:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAdKUJxjn-R8%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAdKUJxjn-R8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAdKUJxjn-R8%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=AdKUJxjn-R8</link>
-            <guid isPermaLink="false">dd962a2a-919a-40c9-8dee-b0f15ffe5586</guid>
-            <pubDate>Mon, 26 Dec 2016 10:52:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tensorflow-Iris]]></title>
@@ -64,11 +50,25 @@
             <pubDate>Sun, 04 Sep 2016 14:03:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Statistical analysis in Google Sheets]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18439425-3a4e-479f-8fd7-f88142736ee8.jpg">,<p>Google Sheets is getting better and better every day. Checkout this new statistics <a href="https://www.linkedin.com/pulse/statistical-analysis-google-sheets-steven-scott">add-on</a></p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efe556dc9e326ddfe6ffb1b0ce22ade8e15ef82e.png"><h1>Statistical analysis in Google Sheets</h1><p>I&apos;m happy to announce a new &quot; Statistics&quot; add-on for Google Sheets (the spreadsheet component of Google docs). The add-on provides statistics and data analysis functionality right in Google Sheets, so you don&apos;t need to download your data to a separate customized statistics application.</p></article>]]></description>
+            <link>https://www.linkedin.com/pulse/statistical-analysis-google-sheets-steven-scott</link>
+            <guid isPermaLink="false">43594910-eb35-41e8-8fd3-81bd66425a49</guid>
+            <pubDate>Sun, 04 Sep 2016 14:11:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Clear Off The Table]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7821a3ac-c5d6-4f04-8517-dd7b5b9cba57.jpg">,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a763e87a59a74f7bde6e8f3d5859aef8ff488c8"><h1>Clear Off The Table</h1><p>We received a lot of attention for our Data Looks Better Naked post. People got bored on Christmas Eve and some interesting searches for Star Trek somehow landed them on our page. Now their charts look better. The principles outlined in that article aren&apos;t just for charts, though.</p></article>]]></description>
             <link>http://blog.darkhorseanalytics.com/clear-off-the-table</link>
             <guid isPermaLink="false">3a73f8cc-01fd-49ca-b921-67e50f34f4f0</guid>
             <pubDate>Fri, 09 Sep 2016 20:34:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAdKUJxjn-R8%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAdKUJxjn-R8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAdKUJxjn-R8%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=AdKUJxjn-R8</link>
+            <guid isPermaLink="false">dd962a2a-919a-40c9-8dee-b0f15ffe5586</guid>
+            <pubDate>Mon, 26 Dec 2016 10:52:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
