@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-31T13:59:15.269Z'
+datePublished: '2017-01-22T12:29:47.944Z'
 sourcePath: _posts/2016-09-04-statistical-analysis-in-google-sheets.md
 isBasedOnUrl: 'https://www.linkedin.com/pulse/statistical-analysis-google-sheets-steven-scott'
 keywords:
@@ -20,7 +20,7 @@ author:
       https://www.linkedin.com/in/steven-scott-3b66964?trk=pulse-det-athr_prof-art_hdr
     avatar: {}
 via: {}
-dateModified: '2016-12-31T13:59:13.568Z'
+dateModified: '2017-01-22T12:29:46.005Z'
 title: ''
 app_links: []
 publisher: {}
