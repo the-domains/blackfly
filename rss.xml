@@ -4,9 +4,16 @@
         <description><![CDATA[Blackfly]]></description>
         <link>http://www.blackfly.se/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Jan 2017 14:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2017 12:30:01 GMT</lastBuildDate>
         <atom:link href="http://www.blackfly.se/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Jan 2017 14:17:34 GMT</pubDate>
+        <pubDate>Sun, 22 Jan 2017 12:29:49 GMT</pubDate>
+        <item>
+            <title><![CDATA[Customer Loyalty Is Overrated]]></title>
+            <description><![CDATA[<article><h1>Customer Loyalty Is Overrated</h1><p>In this spotlight Counterpoint Dollar Shave Club&apos;s subscription model is a striking illustration. In Practice A conversation with J&oslash;rgen Vig Knudstorp, cochairman of the LEGO Brand Group In Practice An interview with Intuit chairman and cofounder Scott Cook Late in the spring of 2016 Facebook&apos;s category-leading photo-sharing application, Instagram, abandoned its original icon, a retro camera familiar to the app&apos;s 400- million-plus users, and replaced it with a flat modernist design that, as the head of design explained, &quot;suggests a camera.&quot;</p><img src="https://hbr.org/resources/images/article_assets/2016/11/R1701B_LAFLEY.jpg"></article>]]></description>
+            <link>https://hbr.org/2017/01/customer-loyalty-is-overrated</link>
+            <guid isPermaLink="false">b0b42a32-df3e-4636-9986-a39448c5c065</guid>
+            <pubDate>Thu, 19 Jan 2017 13:48:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This summer]]></title>
             <description><![CDATA[<h1>This summer</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66bafc1d-ab99-4b04-bf7c-ac733e0ec645.jpg" alt="Mindfulness ">]]></description>
@@ -20,6 +27,13 @@
             <link>https://www.youtube.com/watch?v=CrSX97elHDA</link>
             <guid isPermaLink="false">beff60f5-5912-4f8d-994f-2a8ab63d7d6e</guid>
             <pubDate>Sun, 04 Sep 2016 14:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech Talk: Habit Formation in UI/UX]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJYbj7DZh3i0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJYbj7DZh3i0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJYbj7DZh3i0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtube.com/watch?v=JYbj7DZh3i0</link>
+            <guid isPermaLink="false">98ced294-3aa7-4dc7-b136-804df8655983</guid>
+            <pubDate>Thu, 19 Jan 2017 14:17:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Statistical analysis in Google Sheets]]></title>
@@ -41,27 +55,6 @@
             <link>https://www.youtube.com/watch?v=AdKUJxjn-R8</link>
             <guid isPermaLink="false">dd962a2a-919a-40c9-8dee-b0f15ffe5586</guid>
             <pubDate>Mon, 26 Dec 2016 10:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tech Talk: Habit Formation in UI/UX]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJYbj7DZh3i0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJYbj7DZh3i0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJYbj7DZh3i0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtube.com/watch?v=JYbj7DZh3i0</link>
-            <guid isPermaLink="false">98ced294-3aa7-4dc7-b136-804df8655983</guid>
-            <pubDate>Thu, 19 Jan 2017 14:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tech Talk: Habit Formation in UI/UX]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJYbj7DZh3i0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJYbj7DZh3i0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJYbj7DZh3i0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtube.com/watch?v=JYbj7DZh3i0</link>
-            <guid isPermaLink="false">bad6ecdf-8d95-4c1f-b6eb-7e5c7278cddf</guid>
-            <pubDate>Thu, 19 Jan 2017 14:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Customer Loyalty Is Overrated]]></title>
-            <description><![CDATA[<article><h1>Customer Loyalty Is Overrated</h1><p>In this spotlight Counterpoint Dollar Shave Club&apos;s subscription model is a striking illustration. In Practice A conversation with J&oslash;rgen Vig Knudstorp, cochairman of the LEGO Brand Group In Practice An interview with Intuit chairman and cofounder Scott Cook Late in the spring of 2016 Facebook&apos;s category-leading photo-sharing application, Instagram, abandoned its original icon, a retro camera familiar to the app&apos;s 400- million-plus users, and replaced it with a flat modernist design that, as the head of design explained, &quot;suggests a camera.&quot;</p><img src="https://hbr.org/resources/images/article_assets/2016/11/R1701B_LAFLEY.jpg"></article>]]></description>
-            <link>https://hbr.org/2017/01/customer-loyalty-is-overrated</link>
-            <guid isPermaLink="false">b0b42a32-df3e-4636-9986-a39448c5c065</guid>
-            <pubDate>Thu, 19 Jan 2017 13:48:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tensorflow-Iris]]></title>
