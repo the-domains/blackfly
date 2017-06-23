@@ -1,16 +1,18 @@
-layout_spectrum: 0.9075673340925818
-typography_spectrum: 0.6044392926899698
+layout_spectrum: 0.014484432548893117
+typography_spectrum: 0.2670726600853671
 color:
-  saturation: 0.7121388380958855
-  brandStrength: 0.1644855082771824
-  lightness: 0.26430184305820725
+  saturation: 0.7211154328343817
+  brandStrength: 0.33956219336995397
+  lightness: 1
   brandColors:
     - '#B4B8BC'
     - '#1D3969'
     - '#365C89'
     - '#6A7B8C'
     - '#F9F8F3'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.3801809835263371
+coverPrefs:
+  filter: false
 title: Blackfly
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
